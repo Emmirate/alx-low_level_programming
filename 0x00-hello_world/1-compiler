@@ -1,0 +1,2 @@
+[A[A[A[B[B[B#!/bin/bash
+gcc -c $CFILE
