@@ -1,2 +1,2 @@
-[A[A[A[B[B[B#!/bin/bash
+#!/bin/bash
 gcc -c $CFILE
