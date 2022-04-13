@@ -4,7 +4,8 @@
 *
 * Return: x10 a-z
 */
-old print_alphabet_x10(void)
+void print_alphabet_x10(void)
+{
 
    int n, i;
    
@@ -19,3 +20,4 @@ old print_alphabet_x10(void)
    	i++;
    	_putchar('\n');
    }
+}
